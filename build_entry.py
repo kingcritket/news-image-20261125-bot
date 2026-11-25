@@ -191,7 +191,7 @@ SPORT = [
     "Australia by 8 wickets; 185 chased in 13.1 overs.",
     "CRICKET — New Zealand hold India to a draw in the first Test in "
     "Wellington.",
-    "CRICKET — Sooryavanshi smashes the fastest List A double hundred.",
+    "CRICKET — Sooryavanshi hits the fastest List A double hundred.",
 ]
 
 FOOTER = ("TUE = Tuesday 24 Nov  ·  MON = Monday 23 Nov  ·  WED = today, 25 Nov  ·  "
