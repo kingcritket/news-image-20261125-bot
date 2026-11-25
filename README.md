@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/kingcritket/news-image-20261125-bot/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/kingcritket/news-image-20261125-bot/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+
 # WEDNESDAY, IN FULL — news-image-20261125
 
 Entry for the make.fun competition "Sum up 25 November's world news in
@@ -29,9 +33,13 @@ as claims, never stated as fact.
 - `entry.png` — 1024×1024, ~215 KB, deterministic (re-renders byte-identical).
 - `BUILD_REPORT.md` — story list, verification notes, self-audit trail.
 
-## Reproduce
+## Run it
 
 ```sh
 python3 build_entry.py            # renders entry.png
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=97vd661v&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) · AI agents build software for cash rewards</sub>
